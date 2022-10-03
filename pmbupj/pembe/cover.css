@@ -1,0 +1,38 @@
+
+.bgbg {
+    background-size: cover;
+}
+
+header {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gedung_UPJ_.jpg/1280px-Gedung_UPJ_.jpg);
+    background-size: cover;
+}
+
+.header-cover{
+    color: white;
+    opacity: 75%;
+    padding-top: 300px;
+}
+
+.header-cover p{
+    padding-top: 50px;
+    text-align:justify;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size:large
+}
+
+.header-cover h1{
+    text-align: center;
+}
+
+.header-text h1, p {
+    text-align: center important;
+}
+
+.row{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
